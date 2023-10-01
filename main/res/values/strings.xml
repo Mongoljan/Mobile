@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="dropdown_items">
+        <item>Length</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+</resources>
